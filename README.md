@@ -14,13 +14,17 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][linkedin]
-[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />]
-[<img align="left" alt="Perl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/perl.svg" />]
-[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />]
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][python]
+[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />][c]
+[<img align="left" alt="Perl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/perl.svg" />][perl]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />][javascript]
 
 <br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/michael--winters/
 [gmail]: mcwinters19@gmail.com
+[python]: https://www.python.org/
+[c]: https://www.cprogramming.com/
+[perl]: https://www.perl.org/
+[javascript]: https://www.javascript.com/
