@@ -5,7 +5,7 @@
 - 👨‍💻 I am looking to become the best Software Engineer I can
 - 🏀 In my free time I like to play pickup basketball with friends
 - 🥅 My 2022 goal is to allocate more time to personal projects
-- 🥡 My lifelong goal is to find the world's best Kung Bao chicken
+- 🥡 My lifelong goal is to find the world's best Kung Pao chicken
 
 ### Connect with me:
 [<img align="left" alt="mcwinters | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
